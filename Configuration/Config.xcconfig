@@ -1,0 +1,9 @@
+// Configuration/Config.xcconfig
+// Default repository build and signing settings.
+// Do not commit personal credentials or Team IDs here.
+
+ORGANIZATION_IDENTIFIER = com.example.difm
+DEVELOPMENT_TEAM =
+
+// Include local developer override if present
+#include? "../LocalSigning.xcconfig"

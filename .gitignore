@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+xcuserdata/
+*.xcbkptlist
+
+# Local Developer Signing Overrides
+LocalSigning.xcconfig
