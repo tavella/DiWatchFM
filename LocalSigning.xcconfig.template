@@ -1,0 +1,6 @@
+// LocalSigning.xcconfig.template
+// Copy this file to LocalSigning.xcconfig and configure your personal Apple Developer Team ID
+// and bundle identifier prefix for local hardware building.
+
+ORGANIZATION_IDENTIFIER = com.example.difm
+DEVELOPMENT_TEAM =
